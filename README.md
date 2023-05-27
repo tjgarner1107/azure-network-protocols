@@ -60,12 +60,12 @@ Once logged in, this will be the basis/home screen of the osTicketing system. Ru
 <img src="https://i.imgur.com/dPWz0nn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Agents and Administrators have two different pages where rules and perimeters can be selected for each seperate functions. Admins can select their screen to set who can execute certain functions for the agents. Admins will  provide the basis for the administrators. Agents will be able to select their screen. From their side, they will be able set Service Level Agreements to have come up with a solution for the client's issues.
 </p>
 
 <p>
 <img src="https://i.imgur.com/LN2Jar9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Service Level Agreements are the basis for solving ticket issues. They will be the guidelines for having issues resolved in a timely manner. Different agreements will have diffent levels of authority and may require more of timmely solution.
 </p>
