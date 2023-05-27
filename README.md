@@ -46,7 +46,7 @@ Once you've remoted into your Virtual Machine, it's time to set the parameters a
 <img src="https://i.imgur.com/hfFXGha.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the perimeters have been met and all the uploads have taken place, the osTicket system wil be executable on your Virtual Machine created. You will need to create an username and password as being an administrator.
 </p>
 
 <p>
